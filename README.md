@@ -26,9 +26,4 @@ Frontend Developer with 5+ years
 ![](https://img.shields.io/badge/VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=007acc)
 ![](https://img.shields.io/badge/PNPM-informational?style=flat-square&logo=pnpm&logoColor=ffffff&color=f9ad00)
 
-<h1><img src="octocats/mona-loading.gif" width="40" height="40"> GitHub Stats</h1>
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crashmax-dev&layout=compact&show_icons=true&theme=white&hide_border=true&icon_color=2a84ea&bg_color=00000000&text_color=2a84ea" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crashmax-dev&layout=compact&theme=white&hide_border=true&icon_color=2a84ea&bg_color=00000000&text_color=2a84ea&hide=html,css,scss" />
-</div>
