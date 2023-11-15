@@ -2,8 +2,6 @@
 
 Frontend Developer with 5+ years
 
-[![wakatime](https://wakatime.com/badge/user/2b32151b-c987-411d-8aef-23a48c2cd648.svg?style=flat-square)](https://wakatime.com/@2b32151b-c987-411d-8aef-23a48c2cd648)
-
 <h1><img src="octocats/octocat-squid.gif" width="40" height="40"> Technologies & Tools</h1>
 
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)
