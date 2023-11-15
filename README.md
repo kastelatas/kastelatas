@@ -1,8 +1,4 @@
-<h1>
-  <img src="https://github.com/crashmax-dev/crashmax-dev/raw/master/octocats/mona-whisper.gif" width="40" height="40">
-  Hi there!
-
-</h1>
+<img src="https://github.com/crashmax-dev/crashmax-dev/raw/master/octocats/mona-whisper.gif" width="40" height="40">
 
 Frontend Developer with 5+ years
 
