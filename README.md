@@ -22,3 +22,10 @@ Frontend Developer with 5+ years
 ![](https://img.shields.io/badge/PNPM-informational?style=flat-square&logo=pnpm&logoColor=ffffff&color=f9ad00)
 ![](https://camo.githubusercontent.com/8f43425702111cf74b8533f47f540e0800740979cdd6a0d59fafef11d1287cc1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3030353939433f7374796c653d666c61742d737175617265266c6f676f3d63)
 ![](https://camo.githubusercontent.com/bbae65b6de4a3ba26fbeaf00e347900385400dcd092e8b4e0f795853d24a24e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532332d2532333233393132302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465)
+
+<h1><img src="octocats/mona-loading.gif" width="40" height="40"> GitHub Stats</h1>
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kastelatas&layout=compact&show_icons=true&theme=white&hide_border=true&icon_color=2a84ea&bg_color=00000000&text_color=2a84ea" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kastelatas&layout=compact&theme=white&hide_border=true&icon_color=2a84ea&bg_color=00000000&text_color=2a84ea&hide=html,css,scss" />
+</div>
