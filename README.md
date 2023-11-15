@@ -1,5 +1,5 @@
 <h1>
-  <img src="octocats/mona-whisper.gif" width="40" height="40">
+  <img src="https://github.com/crashmax-dev/crashmax-dev/raw/master/octocats/mona-whisper.gif" width="40" height="40">
   Hi there!
 
 </h1>
